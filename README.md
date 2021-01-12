@@ -5,12 +5,12 @@
 🌱 Learning more about Backend engineering, Flutter and DSA.\
 ⚡ In my free time, I pursue Game Development and Graphic Designing as side hustles.\
 💬 You can reach out to me via email at helewrer3@gmail.com.\
-💡 Check out my portfolio at my https://helewrer3.github.io.
+💡 Check out my portfolio at my https://helewrer3.github.io.\
 ![helewrer3](https://cp-logo.vercel.app/codeforces/helewrer3)&nbsp; ![garvitkansal](https://cp-logo.vercel.app/codeforces/garvitkansal)&nbsp;
 
 ### 🛠 What I am interested in
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp; ![JS](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp; ![Nodemon](https://img.shields.io/badge/-Nodemon-05122A?style=flat&logo=nodemon)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp; ![JS](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JavaScript)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp; ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp; ![Nodemon](https://img.shields.io/badge/-Nodemon-05122A?style=flat&logo=nodemon)&nbsp;\
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp; ![Nodejs](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=javascript)&nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp; ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 
