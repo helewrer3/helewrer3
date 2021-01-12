@@ -5,7 +5,7 @@
 🌱 Learning more about Backend engineering, Flutter and DSA.\
 ⚡ In my free time, I pursue Game Development and Graphic Designing as side hustles.\
 💬 You can reach out to me via email at helewrer3@gmail.com.\
-💡 Check out my portfolio at my https://helewrer3.github.io.\
+💡 Check out my portfolio at my https://helewrer3.github.io. \
 ![helewrer3](https://cp-logo.vercel.app/codeforces/helewrer3)&nbsp; ![garvitkansal](https://cp-logo.vercel.app/codeforces/garvitkansal)&nbsp;
 
 ### 🛠 What I am interested in
