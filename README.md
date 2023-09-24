@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Garvit Kansak and I'm a software developer, from India.</h2>
+<h2 align="left">Hi 👋! My name is Garvit Kansal and I'm a software developer, from India.</h2>
 
 ###
 
